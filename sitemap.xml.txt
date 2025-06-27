@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.qualityme.info/</loc>
+  </url>
+  <url>
+    <loc>https://www.qualityme.info/financial-health-library</loc>
+  </url>
+  <url>
+    <loc>https://www.qualityme.info/emotional-health-library</loc>
+  </url>
+  <url>
+    <loc>https://www.qualityme.info/mental-health-library</loc>
+  </url>
+  <url>
+    <loc>https://www.qualityme.info/environmental-health-library</loc>
+  </url>
+  <url>
+    <loc>https://www.qualityme.info/spiritual-health-library</loc>
+  </url>
+  <url>
+    <loc>https://www.qualityme.info/physical-health-library</loc>
+  </url>
+</urlset>
